@@ -1,0 +1,4 @@
+C:\Users\aleja\source\repos\PatronesDeDiseno\PatronesDeDiseno\obj\Debug\net8.0\PatronesDeDiseno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\PatronesDeDiseno\PatronesDeDiseno\obj\Debug\net8.0\PatronesDeDiseno.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\PatronesDeDiseno\PatronesDeDiseno\obj\Debug\net8.0\PatronesDeDiseno.AssemblyInfo.cs
+C:\Users\aleja\source\repos\PatronesDeDiseno\PatronesDeDiseno\obj\Debug\net8.0\PatronesDeDiseno.csproj.CoreCompileInputs.cache
